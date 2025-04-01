@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil no Github 
 
- <div>
-   <a href="https://github.com/rodridiasx">
+  <div>
+   <a href="https://github.com/devemdobro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodridiasx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridiasx&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
@@ -17,7 +17,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Meus links abaixo!
  
 <div> 
   <a href="https://instagram.com/rodridiasx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
