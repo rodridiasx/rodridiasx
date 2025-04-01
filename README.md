@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao meu perfil no Github
 
-Oi! Eu sou o **Rodrigo Dias**, desenvolvedor apaixonado por **JavaScript**, **HTML**, **CSS** e **Java**. Aqui você pode ver alguns dos meus projetos e estatísticas!
+Oi! Eu sou o **Rodrigo Dias**, desenvolvedor Front-end. Apaixonado por tecnologia.
+Aqui você pode ver alguns dos meus projetos e estatísticas!
 
  <div>
    <a href="https://github.com/devemdobro">
