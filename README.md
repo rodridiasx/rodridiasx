@@ -2,9 +2,10 @@
 
 Oi! Eu sou o **Rodrigo Dias**, desenvolvedor apaixonado por **JavaScript**, **HTML**, **CSS** e **Java**. Aqui você pode ver alguns dos meus projetos e estatísticas!
 
-<div>
-   ![Stats](https://github-readme-stats.vercel.app/api?username=rodridiasx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodridiasx&layout=compact&langs_count=6&theme=tokyonight)
+ <div>
+   <a href="https://github.com/devemdobro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodridiasx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridiasx&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
