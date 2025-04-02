@@ -1,10 +1,7 @@
-## Bem-vindo(a) ao meu perfil no Github
-
-Oi! Eu sou o **Rodrigo Dias**, desenvolvedor Front-end. Apaixonado por tecnologia.
-Aqui você pode ver alguns dos meus projetos e estatísticas!
+## Oi! Eu sou o **Rodrigo Dias**, desenvolvedor Front-end. Apaixonado por tecnologia.
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/rodridiasx">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodridiasx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodridiasx&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
